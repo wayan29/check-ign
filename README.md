@@ -38,8 +38,8 @@ List of Games
 |Free Fire|FREEFIRE|
 |Game of Sultans|MECHANIST|
 |Genshin Impact|GENSHIN_IMPACT|
-|Honkai: Star Rail|HONKAI_STAR_RAIL|
 |Higgs Domino|HIGGS_DOMINO|
+|Honkai: Star Rail|HONKAI_STAR_RAIL|
 |Identity V|IDENTITY_V|
 |Laplace M|ZLONGAME|
 |League of Legends: Wild Rift|WILD_RIFT|

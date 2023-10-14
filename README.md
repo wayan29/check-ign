@@ -4,7 +4,7 @@ PHP Library for Checking a Game Nickname Based on an Account ID
 Usage
 ------------
 ```php
-require('src/Games.php');
+require('ApiGames.php'');
 
 use Aditdev\ApiGames;
 
